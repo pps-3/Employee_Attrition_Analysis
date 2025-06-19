@@ -58,7 +58,7 @@ jupyter notebook notebooks/
 📊 Example Visuals
 
 
-🤝 Contributors
+🤝 Contributors:
 Preethi Saran
 
 📃 License
@@ -68,9 +68,3 @@ This project is open source and available under the MIT License.
 For questions or collaboration, reach out via GitHub issues or connect on LinkedIn.
 
 ---
-
-Let me know if you'd like this customized further — for example:
-- Adding Kaggle/IBM dataset sources
-- Including accuracy scores for your models
-- Enhancing visuals section with links or images
-- Adding a demo video or deployment info (if applicable)
