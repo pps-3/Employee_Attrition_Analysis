@@ -1,0 +1,35 @@
+
+EMPLOYEE ATTRITION ANALYSIS - FINAL REPORT
+==========================================
+
+DATASET OVERVIEW:
+- Total Employees Analyzed: 1470
+- Overall Attrition Rate: 16.1%
+- Features Used for Prediction: 34
+
+MODEL PERFORMANCE:
+- Best Algorithm: Random Forest
+- Accuracy: 82.7%
+- ROC AUC Score: 0.786
+
+KEY FINDINGS:
+- Most Important Factor: MonthlyIncome
+- Highest Risk Age Group: 19
+- Highest Risk Department: Sales
+- Annual Cost Impact: $11,850,000
+
+TOP 5 RECOMMENDATIONS:
+1. Salary Review: Focus on bottom 25% salary employees
+2. Work-Life Balance: Reduce mandatory overtime  
+3. Young Talent: Career development programs for 18-25 age group
+4. Department Focus: Special attention to Sales
+5. Predictive Monitoring: Use model to identify at-risk employees monthly
+
+FILES GENERATED:
+- hr_dashboard.html (Interactive Dashboard)
+- model_evaluation.png (Model Performance Charts)
+- eda_analysis.png (Exploratory Data Analysis Charts)
+- feature_importance.csv (Feature Rankings)
+- age_analysis.csv (Age Group Analysis)
+- salary_analysis.csv (Salary Impact Analysis)
+- department_analysis.csv (Department Breakdown)
