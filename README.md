@@ -55,8 +55,6 @@ pip install -r requirements.txt
 Open and run notebooks
 
 jupyter notebook notebooks/
-📊 Example Visuals
-
 
 🤝 Contributors:
 Preethi Saran
